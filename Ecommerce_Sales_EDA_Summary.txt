@@ -1,0 +1,22 @@
+
+E-commerce Sales Data Analysis (Exploratory Data Analysis)
+
+To uncover sales trends, profitability, and category performance, we conducted an in-depth Exploratory Data Analysis (EDA) on e-commerce sales data. Using Python (Pandas, NumPy, and Plotly), we extracted key insights to optimize business decisions.
+
+Key Findings & Business Insights:
+- Quarterly Performance: Q4 recorded the highest sales and maximum profits, indicating strong seasonal demand.
+- Category Contribution:
+  - Technology: Highest sales share (36.4%), contributing 50.8% of total profits.
+  - Office Supplies: Accounted for 42.8% of profits with stable demand.
+  - Furniture: Lowest profitability (6.44% of total profits) with specific loss-making subcategories.
+- Loss-Making Subcategories:
+  - Tables: Incurred a net loss of $18K, requiring pricing or inventory adjustments.
+  - Bookcases: Faced a $2K loss, suggesting a need for sales strategy revision.
+- Sales-to-Profit Ratios:
+  - Consumer Segment: 26:3, indicating lower profitability.
+  - Corporate Segment: 192:25, reflecting strong profit margins.
+  - Home & Office Supplies: 107:15, showing a balanced performance.
+
+Tools & Technologies Used:
+- Python (Pandas, NumPy, Plotly) for data cleaning, analysis, and visualization.
+- Statistical methods & business intelligence to drive data-backed recommendations.
